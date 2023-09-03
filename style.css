@@ -1,0 +1,21 @@
+header{
+
+  padding: 0.1px;
+  overflow: hidden;
+}
+.sav{
+    font-size: xx-large;
+ background-color: white;
+    text-align: start;
+
+  
+}
+body{
+background-color:rgba(210, 229, 245, 0.925) ;
+}
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  text-align: center;
+ 
+}
